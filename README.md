@@ -6,7 +6,7 @@ This repository contains a Jupyter Notebook in an Anaconda environment where I b
 
 After scraping the data, I merged the two datasets and cleaned up the resulting set. All data cleaning and subsequent data manipulation was done using the __pandas__ library. Furthermore, I analyzed the data and created visualizations using the __seaborn__ library, creating a better understanding of how rent prices vary in Toronto based on the geographical location of each listing type. The analysis was done for office, commercial, and retail spaces and heatmaps were created to show the parts of the city where people should expect to pay more rent for their businesses.
 
-You can view the notebook with all the visualizations [here](bit.ly/3iDen9D) (GitHub doesn't display some of the visualizations).
+You can view the notebook with all the visualizations [here](https://bit.ly/3iDen9D) (GitHub doesn't display some of the visualizations).
 
 Below is the environment and library information for this notebook:  
 * <code>Python 3.7.7</code>
